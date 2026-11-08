@@ -1,0 +1,3 @@
+secret_key.json
+secret_passwords.json
+*.secret.json
